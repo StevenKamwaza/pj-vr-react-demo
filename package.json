@@ -2,6 +2,11 @@
   "name": "pj-vr-react-demo",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Steven Kamwaza",
+    "email": "stevenkamwaza@gmail.com",
+    "url": "https://github.com/stevenkamwaza"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
